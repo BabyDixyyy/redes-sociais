@@ -10,4 +10,10 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--cor-principal);
     font-family: var(--font);
+    height: 100vh;
+    margin: 0;
+}
+.cabecalho{
+    background-color: var(--cor-texto);
+    text-align: center;
 }
