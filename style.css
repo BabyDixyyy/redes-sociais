@@ -17,3 +17,19 @@ body{
     background-color: var(--cor-texto);
     text-align: center;
 }
+cabecalho__titulo{
+    font-size: 2rem;
+    color: var(--cor-principal);
+    font-weight: 700;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+nav a{
+    text-decoration: none;
+    color: var();
+    margin: 0 2rem 1rem 0;
+    font-size: 1.2rem;
+}
